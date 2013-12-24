@@ -1,0 +1,8 @@
+*Commands
+ - perl getStory.pl
+ - perl makeDict.pl < data.txt
+
+*To do:
+  - [ ] filter stopwords
+  - [ ] get plots
+  - [ ] apply sentiment index, and other indexes
